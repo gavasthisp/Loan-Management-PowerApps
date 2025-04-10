@@ -1,5 +1,5 @@
 # Loan-Management-PowerApps
-Canvas Power Apps for Loan Management - Calculator, Appraisal, Monitoring, Reconciliation
+## Canvas Power Apps for Loan Management - Calculator, Appraisal, Monitoring, Reconciliation
 
 Huduma Credit is a non-deposit-taking lending company in Kenya and is a trusted name in the credit industry, lending with a key focus on logbook loans and financing private vehicles as well as e-bikes.
 Huduma’s main objective is to broaden credit access by simplifying the processes and collateral requirements for loan applicants. By ensuring that the loans are issued within the same day, Huduma enables ease in handling financial emergencies.
